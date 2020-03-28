@@ -36,7 +36,7 @@
     information, please contact us so that we will be able to do necessary actions.</p>
 
 <p><strong>Acceptance of the terms</strong></p> 
-<p>By using any of the Services offered by HappyHome, Users agree to the terms and conditions of this Privacy Policy, and you consent to the collection, use and disclosure of your information by HappyHome in accordance with the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Service.</p>
+<p>By using any of the Services offered by Connect Dots: Draw A Road To Home, Users agree to the terms and conditions of this Privacy Policy, and you consent to the collection, use and disclosure of your information by Connect Dots: Draw A Road To Home in accordance with the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Service.</p>
 
 <p><strong>Changes to This Privacy Policy</strong></p>
 <p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page
@@ -46,7 +46,7 @@
 <p><strong>Contact Us</strong></p>
 <p>If you have any questions, please reach out to me at mourice36@gmail.com</p> 
 
-<p>Thanks for playing HappyHome!</p>
+<p>Thanks for playing Connect Dots: Draw A Road To Home!</p>
 </body>
 </html>
 
